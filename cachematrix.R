@@ -1,5 +1,5 @@
 
-## Below are two functions that are used to create a special object that stores a matrix vector and caches its inverse.
+## Below are two functions that are used to create a special object that stores a matrix and caches its inverse.
 
 
 ## The first function, makeCaheMatrix creates a special "matrix" object that can cache its inverse
